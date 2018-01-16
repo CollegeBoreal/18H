@@ -1,11 +1,11 @@
 # Hiver 2018
 
 # Calendrier GINF
-![alt tag](https://github.com/CollegeBoreal/18H/blob/master/GINF18H.png)
+![alt tag](./GINF.png)
 
 
 # Calendrier GINQ
-![alt tag](https://github.com/CollegeBoreal/18H/blob/master/GINQ18H.png)
+![alt tag](./GINQ.png)
 
 
 ## ÉTAPE 2
